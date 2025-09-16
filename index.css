@@ -114,7 +114,8 @@ body {
     .jeanette,
     .patrick,
     .kira {
-        grid-column: 1;
+        grid-column: auto;
+        grid-row: auto;
 
     }
 
