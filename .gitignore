@@ -2,7 +2,7 @@
 *.sketch
 *.fig
 *.xd
-
+.qodo
 # Dependencies
 /node_modules
 /.pnp
